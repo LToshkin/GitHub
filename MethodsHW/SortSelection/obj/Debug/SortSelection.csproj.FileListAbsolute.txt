@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SortSelection\bin\Debug\SortSelection.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SortSelection\bin\Debug\SortSelection.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SortSelection\bin\Debug\SortSelection.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SortSelection\obj\Debug\SortSelection.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SortSelection\obj\Debug\SortSelection.pdb

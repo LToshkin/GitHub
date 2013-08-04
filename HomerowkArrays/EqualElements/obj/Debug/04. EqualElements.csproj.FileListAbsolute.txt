@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\bin\Debug\EqualElements.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\obj\Debug\04. EqualElements.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\bin\Debug\EqualElements.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\bin\Debug\EqualElements.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\obj\Debug\EqualElements.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\EqualElements\obj\Debug\EqualElements.pdb

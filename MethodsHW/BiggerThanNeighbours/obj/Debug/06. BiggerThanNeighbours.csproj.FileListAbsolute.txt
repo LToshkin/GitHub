@@ -1,0 +1,3 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\BiggerThanNeighbours\bin\Debug\BiggerThanNeighbours.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\BiggerThanNeighbours\obj\Debug\BiggerThanNeighbours.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\BiggerThanNeighbours\obj\Debug\BiggerThanNeighbours.pdb

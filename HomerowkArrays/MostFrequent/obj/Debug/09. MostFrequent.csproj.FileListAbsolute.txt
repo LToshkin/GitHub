@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MostFrequent\bin\Debug\MostFrequent.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MostFrequent\bin\Debug\MostFrequent.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MostFrequent\bin\Debug\MostFrequent.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MostFrequent\obj\Debug\MostFrequent.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MostFrequent\obj\Debug\MostFrequent.pdb

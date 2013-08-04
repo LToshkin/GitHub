@@ -1,0 +1,10 @@
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.exe.config
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.pdb
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\obj\Debug\_05.SortByLength.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\obj\Debug\_05.SortByLength.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\obj\Debug\_05.SortByLength.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\obj\Debug\_05.SortByLength.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\05. SortByLength\bin\Debug\_05.SortByLength.pdb

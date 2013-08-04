@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\MinMaxAverage\bin\Debug\MinMaxAverage.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\MinMaxAverage\bin\Debug\MinMaxAverage.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\MinMaxAverage\bin\Debug\MinMaxAverage.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\MinMaxAverage\obj\Debug\MinMaxAverage.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\MinMaxAverage\obj\Debug\MinMaxAverage.pdb

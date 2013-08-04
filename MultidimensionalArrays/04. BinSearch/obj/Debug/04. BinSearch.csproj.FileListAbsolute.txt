@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.exe.config
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.pdb
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\04. BinSearch.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\_04.BinSearch.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\_04.BinSearch.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\_04.BinSearch.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\_04.BinSearch.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\bin\Debug\_04.BinSearch.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\04. BinSearch\obj\Debug\04. BinSearch.csprojResolveAssemblyReference.cache

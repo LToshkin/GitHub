@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\bin\Debug\IndexMultipliedFive.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\bin\Debug\IndexMultipliedFive.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\bin\Debug\IndexMultipliedFive.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\obj\Debug\01. IndexMultipliedFive.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\obj\Debug\IndexMultipliedFive.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\IndexMultipliedFive\obj\Debug\IndexMultipliedFive.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\bin\Debug\CompareLexico.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\obj\Debug\03. CompareLexico.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\bin\Debug\CompareLexico.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\bin\Debug\CompareLexico.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\obj\Debug\CompareLexico.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareLexico\obj\Debug\CompareLexico.pdb

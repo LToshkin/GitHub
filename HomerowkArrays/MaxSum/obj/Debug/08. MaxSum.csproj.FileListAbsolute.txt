@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaxSum\bin\Debug\MaxSum.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaxSum\bin\Debug\MaxSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaxSum\bin\Debug\MaxSum.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaxSum\obj\Debug\MaxSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaxSum\obj\Debug\MaxSum.pdb

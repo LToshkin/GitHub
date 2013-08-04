@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\obj\Debug\07. Sorting.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\bin\Debug\Sorting.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\bin\Debug\Sorting.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\bin\Debug\Sorting.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\obj\Debug\Sorting.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\Sorting\obj\Debug\Sorting.pdb

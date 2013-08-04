@@ -1,0 +1,5 @@
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\bin\Debug\LongestEqualvaluePath.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\bin\Debug\LongestEqualvaluePath.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\bin\Debug\LongestEqualvaluePath.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\obj\Debug\LongestEqualvaluePath.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\obj\Debug\LongestEqualvaluePath.pdb

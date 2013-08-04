@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\LongestIncrease\bin\Debug\LongestIncrease.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\LongestIncrease\bin\Debug\LongestIncrease.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\LongestIncrease\bin\Debug\LongestIncrease.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\LongestIncrease\obj\Debug\LongestIncrease.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\LongestIncrease\obj\Debug\LongestIncrease.pdb

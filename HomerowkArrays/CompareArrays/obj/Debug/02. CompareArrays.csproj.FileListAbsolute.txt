@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\bin\Debug\CompareArrays.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\bin\Debug\CompareArrays.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\obj\Debug\CompareArrays.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\obj\Debug\CompareArrays.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CompareArrays\obj\Debug\02. CompareArrays.csprojResolveAssemblyReference.cache

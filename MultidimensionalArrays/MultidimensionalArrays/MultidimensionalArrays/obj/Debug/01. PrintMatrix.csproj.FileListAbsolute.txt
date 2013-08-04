@@ -1,0 +1,6 @@
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\01. PrintMatrix.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

@@ -1,0 +1,3 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\Polynomial\bin\Debug\Polynomial.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\Polynomial\obj\Debug\Polynomial.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\Polynomial\obj\Debug\Polynomial.pdb

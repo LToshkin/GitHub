@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\bin\Debug\HelloMethod.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\bin\Debug\HelloMethod.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\bin\Debug\HelloMethod.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\obj\Debug\HelloMethod.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\obj\Debug\HelloMethod.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\HelloMethod\obj\Debug\HelloMethod.pdb

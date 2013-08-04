@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\ElementsSumS\bin\Debug\ElementsSumS.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\ElementsSumS\bin\Debug\ElementsSumS.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\ElementsSumS\bin\Debug\ElementsSumS.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\ElementsSumS\obj\Debug\ElementsSumS.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\ElementsSumS\obj\Debug\ElementsSumS.pdb

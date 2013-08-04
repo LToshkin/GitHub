@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetMax\bin\Debug\GetMax.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetMax\bin\Debug\GetMax.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetMax\bin\Debug\GetMax.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetMax\obj\Debug\GetMax.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetMax\obj\Debug\GetMax.pdb

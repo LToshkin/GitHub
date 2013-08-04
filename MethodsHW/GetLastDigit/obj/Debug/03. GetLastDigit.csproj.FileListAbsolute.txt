@@ -1,0 +1,1 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\GetLastDigit\bin\Debug\GetLastDigit.exe.config

@@ -1,0 +1,12 @@
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.exe.config
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\03. LongestSequence.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.pdb
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\_03.LongestSequence.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\_03.LongestSequence.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\_03.LongestSequence.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\_03.LongestSequence.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\bin\Debug\_03.LongestSequence.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\03. LongestSequence\obj\Debug\03. LongestSequence.csprojResolveAssemblyReference.cache

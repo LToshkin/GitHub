@@ -1,0 +1,1 @@
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\LongestEqualvaluePath\bin\Debug\LongestEqualvaluePath.exe.config

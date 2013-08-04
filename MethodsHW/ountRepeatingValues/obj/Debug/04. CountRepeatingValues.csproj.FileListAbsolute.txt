@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ountRepeatingValues\bin\Debug\ountRepeatingValues.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ountRepeatingValues\bin\Debug\ountRepeatingValues.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ountRepeatingValues\bin\Debug\ountRepeatingValues.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ountRepeatingValues\obj\Debug\ountRepeatingValues.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ountRepeatingValues\obj\Debug\ountRepeatingValues.pdb

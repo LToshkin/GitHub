@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CombinationsOfN\bin\Debug\CombinationsOfN.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CombinationsOfN\bin\Debug\CombinationsOfN.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CombinationsOfN\bin\Debug\CombinationsOfN.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CombinationsOfN\obj\Debug\CombinationsOfN.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\CombinationsOfN\obj\Debug\CombinationsOfN.pdb

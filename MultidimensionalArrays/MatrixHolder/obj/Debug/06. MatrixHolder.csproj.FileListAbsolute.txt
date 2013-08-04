@@ -1,0 +1,6 @@
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\bin\Debug\MatrixHolder.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\bin\Debug\MatrixHolder.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\bin\Debug\MatrixHolder.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\obj\Debug\06. MatrixHolder.csprojResolveAssemblyReference.cache
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\obj\Debug\MatrixHolder.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\MatrixHolder\obj\Debug\MatrixHolder.pdb

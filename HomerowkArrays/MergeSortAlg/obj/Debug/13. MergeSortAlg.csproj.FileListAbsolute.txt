@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MergeSortAlg\bin\Debug\MergeSortAlg.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MergeSortAlg\bin\Debug\MergeSortAlg.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MergeSortAlg\bin\Debug\MergeSortAlg.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MergeSortAlg\obj\Debug\MergeSortAlg.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MergeSortAlg\obj\Debug\MergeSortAlg.pdb

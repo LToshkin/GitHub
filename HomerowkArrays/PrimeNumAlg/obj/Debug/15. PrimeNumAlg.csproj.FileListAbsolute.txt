@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\PrimeNumAlg\bin\Debug\PrimeNumAlg.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\PrimeNumAlg\bin\Debug\PrimeNumAlg.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\PrimeNumAlg\bin\Debug\PrimeNumAlg.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\PrimeNumAlg\obj\Debug\PrimeNumAlg.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\PrimeNumAlg\obj\Debug\PrimeNumAlg.pdb

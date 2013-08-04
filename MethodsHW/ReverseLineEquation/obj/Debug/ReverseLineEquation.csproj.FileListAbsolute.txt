@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ReverseLineEquation\bin\Debug\ReverseLineEquation.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ReverseLineEquation\bin\Debug\ReverseLineEquation.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ReverseLineEquation\bin\Debug\ReverseLineEquation.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ReverseLineEquation\obj\Debug\ReverseLineEquation.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\ReverseLineEquation\obj\Debug\ReverseLineEquation.pdb

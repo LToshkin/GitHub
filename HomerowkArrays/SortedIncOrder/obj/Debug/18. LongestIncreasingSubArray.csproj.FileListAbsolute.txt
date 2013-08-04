@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SortedIncOrder\bin\Debug\SortedIncOrder.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SortedIncOrder\bin\Debug\SortedIncOrder.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SortedIncOrder\bin\Debug\SortedIncOrder.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SortedIncOrder\obj\Debug\SortedIncOrder.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SortedIncOrder\obj\Debug\SortedIncOrder.pdb

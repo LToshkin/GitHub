@@ -1,0 +1,3 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SumArDiggits\bin\Debug\SumArDiggits.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SumArDiggits\obj\Debug\SumArDiggits.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\Solution1\SumArDiggits\obj\Debug\SumArDiggits.pdb

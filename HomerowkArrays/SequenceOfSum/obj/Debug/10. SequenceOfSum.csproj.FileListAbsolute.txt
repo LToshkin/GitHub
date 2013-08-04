@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SequenceOfSum\bin\Debug\SequenceOfSum.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SequenceOfSum\bin\Debug\SequenceOfSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SequenceOfSum\bin\Debug\SequenceOfSum.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SequenceOfSum\obj\Debug\SequenceOfSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SequenceOfSum\obj\Debug\SequenceOfSum.pdb

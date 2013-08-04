@@ -1,0 +1,5 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SubsetS\bin\Debug\SubsetS.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SubsetS\obj\Debug\SubsetS.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SubsetS\obj\Debug\SubsetS.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SubsetS\bin\Debug\SubsetS.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\SubsetS\bin\Debug\SubsetS.pdb

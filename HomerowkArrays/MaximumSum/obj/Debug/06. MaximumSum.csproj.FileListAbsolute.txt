@@ -1,0 +1,6 @@
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\obj\Debug\06. MaximumSum.csprojResolveAssemblyReference.cache
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\bin\Debug\MaximumSum.exe.config
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\bin\Debug\MaximumSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\bin\Debug\MaximumSum.pdb
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\obj\Debug\MaximumSum.exe
+D:\Telerik\Курс C# програмиране - част II\02. Масиви\HomerowkArrays\MaximumSum\obj\Debug\MaximumSum.pdb

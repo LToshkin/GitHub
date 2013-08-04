@@ -1,0 +1,10 @@
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.exe.config
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.pdb
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\obj\Debug\_02.MaxMiniMatrix.exe
+D:\Projects\Telerik\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\obj\Debug\_02.MaxMiniMatrix.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.exe.config
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\obj\Debug\_02.MaxMiniMatrix.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\obj\Debug\_02.MaxMiniMatrix.pdb
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.exe
+D:\Telerik\Домашни Мъро\Programming\C#\C# 2\Homeworks\Numeral systems\MultidimensionalArrays\02. MaxMiniMatrix\bin\Debug\_02.MaxMiniMatrix.pdb
